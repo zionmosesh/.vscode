@@ -1,0 +1,6 @@
+{
+    "files.autoSave": "afterDelay",
+    "editor.colorDecoratorsLimit": 500,
+    "editor.colorDecorators": false,
+    "editor.linkedEditing": true
+}
